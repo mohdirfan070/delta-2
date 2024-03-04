@@ -1,5 +1,2 @@
-# New Project From Local System
-This is a new project Made from local computer
-
-# New Project made by Moahmmed Irfan
-Irfan Created a new project
+# First Heading
+We have made our first heading in main 1
